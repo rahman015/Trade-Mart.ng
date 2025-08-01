@@ -1,0 +1,47 @@
+.grid-layer{
+    padding: 52px 0px;
+    background-color: #F8F8F8;
+}
+
+.header{
+    text-align: center;
+    font-family: Helvetica Neue;
+}
+
+.header h1{
+    margin-bottom: 6px;
+    font-weight: 800;
+    font-size: 26px;
+}
+
+.header p{
+    font-family: Helvetica Neue;
+    font-size: 18px;
+}
+
+.grids{
+    display: flex;
+    font-family: Helvetica Neue;
+    margin-top: 32px;
+    gap: 64px;
+    justify-content: center;
+    padding: 0px 120px;
+}
+
+.grid{
+    line-height: 2;
+    align-items: center;
+    text-align: center;
+    padding: 36px 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.grid p{
+    font-size: 18px;
+}
+
+.grid:hover{
+    transform: scale(1.05);
+    transition: 0.3s ease-in-out;
+}

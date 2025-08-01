@@ -12,7 +12,7 @@ const Vision = () => {
         Grow customer base through digital marketing and global 
         so that is how goal of this company is.</p>
       </div>
-      <div className='right'>
+      <div className='rights'>
         <img src={vision} />
       </div>
     </div>

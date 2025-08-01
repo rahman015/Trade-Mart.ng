@@ -13,7 +13,7 @@ const Background = () => {
             vision and objectives of our digital retail journey to Grow customer 
             base through digital marketing.</p>
             <button><a href="">Get Started Now <i class="bi bi-arrow-right"></i></a></button>
-            <p>Supported by <strong>+10,000</strong>  different countries around the world.</p>
+            <p>Supported by <strong>+20</strong>  different countries around the <strong> Africa.</strong></p>
         </div>
       
     </div>
